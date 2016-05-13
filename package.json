@@ -1,0 +1,15 @@
+{
+  "name": "metrix-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andrey Chausenko <andrey.chausenko@gmail.com> (https://memz.co)",
+  "license": "ISC",
+  "dependencies": {
+    "metrix-js": "1.0.1"
+  }
+}

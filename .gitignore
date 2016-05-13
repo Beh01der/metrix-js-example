@@ -1,0 +1,5 @@
+/node_modules
+/typings
+*.iml
+/.idea
+**/*.js.map

@@ -1,0 +1,4 @@
+[
+   { "code": "200", "url": "/api/note/something", "method": "GET" },
+   { "code": "201", "url": "/api/policy/", "method": "POST" }
+]
