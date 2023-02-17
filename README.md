@@ -1,6 +1,4 @@
 # metrix-js-example
-This is a simple example for my blog post https://memz.co/typescript-nodejs-intellij-idea-webstorm illustrating setting up TypeScript project in Intellij IDEA and [metrix-js](https://www.npmjs.com/package/metrix-js) npm module usage.
-
 
 ## License 
 **ISC License (ISC)**
